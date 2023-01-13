@@ -1,0 +1,2 @@
+Hello this is SSH process of pushing code to remote git repository
+
